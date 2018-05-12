@@ -5,10 +5,10 @@ npm insatll boostarp@3.3.7 --save Booststrap CSS [Booststarp CSS](http://getboot
 ![alt text](https://github.com/abenjamin1313/react-weather-app/blob/master/src/img/page-one.png)  
   
 ### Example Two
-![alt text]https://github.com/abenjamin1313/react-weather-app/blob/master/src/img/page-two.png()  
+![alt text](https://github.com/abenjamin1313/react-weather-app/blob/master/src/img/page-two.png)  
 
 ### Example Three
-![alt text]https://github.com/abenjamin1313/react-weather-app/blob/master/src/img/page-three.png)  
+![alt text](https://github.com/abenjamin1313/react-weather-app/blob/master/src/img/page-three.png)  
 
 ## Table of Contents
 
