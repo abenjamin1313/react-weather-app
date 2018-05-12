@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).  
-npm insatll boostarp@3.3.7 --save Booststrap CSS [Booststarp CSS](http://getbootstrap.com/docs/3.3/)
+npm install boostarp@3.3.7 --save Booststrap CSS [Booststarp CSS](http://getbootstrap.com/docs/3.3/)
 
 ### Example One
 ![alt text](https://github.com/abenjamin1313/react-weather-app/blob/master/src/img/page-one.png)  
