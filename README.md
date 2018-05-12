@@ -1,7 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).  
+npm insatll boostarp@3.3.7 --save Booststrap CSS [Booststarp CSS](http://getbootstrap.com/docs/3.3/)
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+### Example One
+![alt text](https://github.com/abenjamin1313/react-weather-app/blob/master/src/img/page-one.png)  
+  
+### Example Two
+![alt text]https://github.com/abenjamin1313/react-weather-app/blob/master/src/img/page-two.png()  
+
+### Example Three
+![alt text]https://github.com/abenjamin1313/react-weather-app/blob/master/src/img/page-three.png)  
 
 ## Table of Contents
 
